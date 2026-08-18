@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Modern E-Commerce</string>
+    <string name="title_activity_main">Modern E-Commerce</string>
+    <string name="package_name">com.nlksoft.eshop</string>
+    <string name="custom_url_scheme">com.nlksoft.eshop</string>
+</resources>
