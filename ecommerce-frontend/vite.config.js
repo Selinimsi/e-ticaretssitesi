@@ -9,9 +9,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
-        name: 'Varunet E-Shop',
-        short_name: 'Varunet',
-        description: 'Varunet premium e-commerce platform',
+        name: 'Yıldırım E-Shop',
+        short_name: 'Yıldırım',
+        description: 'Yıldırım premium e-commerce platform',
         theme_color: '#ffffff',
         icons: [
           {

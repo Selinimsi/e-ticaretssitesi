@@ -16,7 +16,7 @@ const Footer = () => {
               <div className="bg-primary-600 text-white p-2 rounded-xl">
                 <Package size={24} />
               </div>
-              <span className="text-2xl font-black text-white tracking-tight">Varunet<span className="text-primary-500">Shop</span></span>
+              <span className="text-2xl font-black text-white tracking-tight">Yıldırım<span className="text-primary-500">Shop</span></span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
               {t('home.heroSubtitle')}
@@ -64,7 +64,7 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-sm text-gray-500">
-            &copy; {new Date().getFullYear()} Varunet E-Shop. {t('footer.allRightsReserved')}
+            &copy; {new Date().getFullYear()} Yıldırım E-Shop. {t('footer.allRightsReserved')}
           </p>
           <div className="flex items-center gap-6 text-gray-500">
             <div className="flex items-center gap-2"><ShieldCheck size={20} /> <span className="text-sm">256-Bit SSL</span></div>

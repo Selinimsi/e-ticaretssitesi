@@ -82,7 +82,7 @@ const Header = () => {
               <div className="bg-primary-600 text-white p-2 rounded-xl shadow-inner">
                 <Package size={24} />
               </div>
-              <span className="text-2xl font-black text-gray-900 dark:text-white tracking-tight">Varunet<span className="text-primary-600">Shop</span></span>
+              <span className="text-2xl font-black text-gray-900 dark:text-white tracking-tight">Yıldırım<span className="text-primary-600">Shop</span></span>
             </Link>
             <button onClick={() => setIsMobileMenuOpen(true)} className="md:hidden p-2 text-gray-800 dark:text-gray-200">
               <Menu size={28} />

@@ -28,7 +28,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className="text-lg text-gray-300 mb-10 max-w-lg leading-relaxed">
-              En son teknoloji ürünleri, eşsiz tasarımlar ve muazzam performans. Şimdi Varunet kalitesiyle keşfedin.
+              En son teknoloji ürünleri, eşsiz tasarımlar ve muazzam performans. Şimdi Yıldırım kalitesiyle keşfedin.
             </p>
             <div className="flex flex-wrap gap-4">
               <motion.button 

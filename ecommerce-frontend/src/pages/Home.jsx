@@ -133,7 +133,7 @@ const Home = () => {
               {t('home.heroTitle', 'Teknolojinin')} <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-pink-500">{t('home.heroTitleHighlight', 'Zirvesi')}</span>
             </motion.h1>
             <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }} className="text-lg text-gray-300 mb-8 max-w-lg">
-              {t('home.heroSubtitle', 'Varunet kalitesiyle en yeni cihazlar, benzersiz donanımlar ve inanılmaz fiyatlar.')}
+              {t('home.heroSubtitle', 'Yıldırım kalitesiyle en yeni cihazlar, benzersiz donanımlar ve inanılmaz fiyatlar.')}
             </motion.p>
             <motion.button initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }} className="bg-primary-600 text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-primary-500 transition-colors shadow-lg shadow-primary-600/30 flex items-center gap-2">
               {t('home.exploreNow', 'Hemen Keşfet')} <ChevronRight size={20} />
